@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/reze-hero.svg" width="73%" alt="Adiya R — Before the Rain. A rainy café window and two faceless figures in Denji and Reze’s outfits." />
-<a href="https://chainsawman.dog/movie_reze/"><img src="https://chainsawman.dog/movie_reze/assets/img/top/kv_visual2.jpg" width="24%" alt="Official Chainsaw Man – The Movie: Reze Arc promotional key visual" /></a>
+<img src="./assets/reze-cafe-frame.jpg" width="100%" alt="Denji and Reze sitting together at a sunlit café in Chainsaw Man – The Movie: Reze Arc." />
 
 <img src="./assets/reze-kinetic.svg" width="100%" alt="Animated developer focus: AI and Data Science, Python, local AI and software" />
 
@@ -57,5 +56,5 @@ I'm currently exploring **local AI, machine learning, data visualization and sof
 Interested in collaborating on **AI projects, data-driven applications, creative interfaces and student hackathons**. Find me on [LinkedIn](https://www.linkedin.com/in/adiya-r-a27b74377/) or [GitHub](https://github.com/Adiya-07).
 
 <div align="center">
-<sub>Before the Rain · Original café illustration. Official Reze Arc key visual © 2025 MAPPA / Chainsaw Man Project · Tatsuki Fujimoto / Shueisha. </sub>
+<sub>Before the Rain · [Film still](https://fancaps.net/movies/Image.php?imageid=13468812) from Chainsaw Man – The Movie: Reze Arc. © 2025 MAPPA / Chainsaw Man Project · Tatsuki Fujimoto / Shueisha.</sub>
 </div>
