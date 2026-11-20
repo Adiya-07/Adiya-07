@@ -1,66 +1,61 @@
 <div align="center">
 
-<img src="./assets/blue-hour-hero.svg" width="100%" alt="Adiya R. — Blue Hour: a cinematic blue-purple landscape with mountains, an empty road, and a lone traveler under the moon." />
+<img src="./assets/reze-hero.svg" width="73%" alt="Adiya R — Before the Rain. A rainy café window and two faceless figures in Denji and Reze’s outfits." />
+<a href="https://chainsawman.dog/movie_reze/"><img src="https://chainsawman.dog/movie_reze/assets/img/top/kv_visual2.jpg" width="24%" alt="Official Chainsaw Man – The Movie: Reze Arc promotional key visual" /></a>
 
-<br/>
+<img src="./assets/reze-kinetic.svg" width="100%" alt="Animated developer focus: AI and Data Science, Python, local AI and software" />
 
-**AI & Data Science · Python · Building the next chapter**
+**AI & Data Science student · Building AI-powered and data-driven applications**
 
-[**Explore my code**](https://github.com/Adiya-07?tab=repositories) &nbsp; · &nbsp; [**NEXUS**](https://github.com/Adiya-07/NEXUS) &nbsp; · &nbsp; [**AstroGuy AI**](https://github.com/Adiya-07/PYEXPO-PY003)
+[Portfolio](https://github.com/Adiya-07/my_portfolio) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/adiya-r-a27b74377/) &nbsp; / &nbsp; [Explore my repositories](https://github.com/Adiya-07?tab=repositories)
 
 </div>
 
-<br/>
+## Hey, I'm Adiya
 
-<img src="./assets/chapter-origin.svg" width="100%" alt="The story so far: Still here. Still building."/>
+I'm studying **B.Tech in Artificial Intelligence & Data Science** at **KGiSL Institute of Technology**. I enjoy building software that connects AI, data and interactive experiences.
 
-I'm **Adiya**, an AI & Data Science student who likes making software, discovering how things work, and getting lost in mountains, stories, and the night sky.
+I'm currently exploring **local AI, machine learning, data visualization and software development**. Outside code, I love cinema, mountains, night skies and stories like Chainsaw Man's Reze Arc.
 
-I'm learning **Python, AI/ML, and problem-solving** by actually building things. Some ideas work. Some don't. Every attempt becomes part of the story.
+## My contribution trail
 
-> *It's not about knowing how it ends. It's about finding out what happens next.*
+<img src="./assets/reze-contributions.svg" width="100%" alt="146 GitHub contributions across 39 active days, exact calendar dates from November 16, 2025 to November 20, 2026; animated flower trail" />
 
-<br/>
+<sub>Real contribution calendar snapshot captured November 20, 2026. The colors match GitHub's original intensity levels; the flower is decorative. GitHub's live contribution calendar remains below this README.</sub>
 
-### 02 / The chapters
+## Explore my work
 
-<a href="https://github.com/Adiya-07/NEXUS"><img src="./assets/chapter-01.svg" width="100%" alt="Chapter 01: NEXUS, a local AI file assistant with permission-gated operations"/></a>
+| Project | What you'll find |
+| --- | --- |
+| [**AstroGuy AI**](https://github.com/Adiya-07/PYEXPO-PY003) | Python/Flask web app with interactive charts and an ML chatbot; second prize at PyExpo. |
+| [**NEXUS**](https://github.com/Adiya-07/NEXUS) | Local AI file assistant exploring permission-first architecture and audit history. Phase 1 prototype, paused. |
+| **Fable** | In development: exploring image/video characteristics and potential audience reach with visual analytics. |
+| [**Finger Driver**](https://github.com/Adiya-07/Finger_driver) | Webcam-controlled browser game using computer vision, with keyboard fallback. |
+| [**Epic Habit RPG**](https://github.com/Adiya-07/Epic-habit-tracker-) | Gamified habit tracking with character progression, streaks and analytics. |
 
-NEXUS is a local AI assistant for natural-language file operations, with permissions and a human-in-control design. **[Open the repository →](https://github.com/Adiya-07/NEXUS)**
+<img src="./assets/reze-workspace.svg" width="100%" alt="Animated terminal showing Adiya's current development focus and a glowing flower" />
 
-<img src="./assets/chapter-02.svg" width="100%" alt="Chapter 02: FABLE, an in-development AI project studying content virality"/>
+## What I'm focused on
 
-Fable explores how video and image features might relate to reach, mood, and virality. **In development — not publicly published yet.**
+- **AI & ML:** local models, computer vision and practical machine learning.
+- **Data Science:** visual analytics, storytelling and exploring patterns in data.
+- **Software development:** building useful projects and improving my problem-solving skills.
+- **Creative development:** cinematic interfaces and interactive web experiences.
 
-<a href="https://github.com/Adiya-07/PYEXPO-PY003"><img src="./assets/chapter-03.svg" width="100%" alt="Chapter 03: AstroGuy AI, an astrology-inspired web and ML app"/></a>
+## My toolkit
 
-AstroGuy AI explores charts, calendars, web development, and machine learning. **[Open the repository →](https://github.com/Adiya-07/PYEXPO-PY003)**
+<img src="./assets/reze-toolkit.svg" width="100%" alt="Animated technology tiles for Python, JavaScript, C, HTML/CSS, Flask, Git, AI/ML and Ollama" />
 
-<br/>
+**Languages:** Python · JavaScript · C · HTML & CSS
 
-### 03 / What I carry
+**Tools and technologies:** Git · GitHub · Flask · Ollama · AI / ML (learning and building)
 
-```text
-LANGUAGES     Python · Java · C (learning and building)
-EXPLORING     AI / ML · Data Science · Problem Solving
-BEYOND CODE   Mountains · Cinema · Stories · Night Skies
-CURRENT MODE  Learning, experimenting, becoming better
-```
+<img src="./assets/reze-footer.svg" width="100%" alt="A red flower gently swaying — Still learning, still building" />
 
-<br/>
+## Let's connect
 
-### 04 / The long walk
-
-<img src="./assets/commit-trail.svg" width="100%" alt="An illustrative custom-colored contribution-inspired trail; it is not a live contribution chart" />
-
-<sub>This trail is original artwork, **not a record of actual contribution counts**. My genuine GitHub activity is shown in GitHub's contribution calendar below this profile README.</sub>
-
-<br/>
-
-<img src="./assets/last-frame.svg" width="100%" alt="End of chapter, not the story. See you on the other side." />
+Interested in collaborating on **AI projects, data-driven applications, creative interfaces and student hackathons**. Find me on [LinkedIn](https://www.linkedin.com/in/adiya-r-a27b74377/) or [GitHub](https://github.com/Adiya-07).
 
 <div align="center">
-
-<sub>BLUE HOUR / THE LAST SAVE  ·  ORIGINAL ARTWORK  ·  AR–07</sub>
-
+<sub>Before the Rain · Original café illustration. Official Reze Arc key visual © 2025 MAPPA / Chainsaw Man Project · Tatsuki Fujimoto / Shueisha. </sub>
 </div>
