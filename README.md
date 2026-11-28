@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/Zgoq6imlJpQAAAAd/rain-raining.gif" width="100%" alt="Rain falling on a quiet city street at night." />
+<img src="./assets/twilight-blossoms.svg" width="100%" alt="A compact twilight meadow of pink flowers gently swaying, with drifting cherry blossom petals." />
 
 <img src="./assets/reze-kinetic.svg" width="100%" alt="Animated developer focus: AI and Data Science, Python, local AI and software" />
 
@@ -56,5 +56,5 @@ I'm currently exploring **local AI, machine learning, data visualization and sof
 Interested in collaborating on **AI projects, data-driven applications, creative interfaces and student hackathons**. Find me on [LinkedIn](https://www.linkedin.com/in/adiya-r-a27b74377/) or [GitHub](https://github.com/Adiya-07).
 
 <div align="center">
-<sub>After Everyone Left · [Rainy street animation](https://tenor.com/view/rain-raining-city-night-city-night-rain-gif-14185146) via LornasLove on Tenor.</sub>
+<sub>Twilight blossoms · Still learning, still growing.</sub>
 </div>
